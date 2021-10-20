@@ -1,0 +1,77 @@
+sample-id	Sample-or-Control	day	Fung-Treatment	PMA-Treatment	Sample
+#q2:types	categorical	numeric	categorical	categorical	categorical
+FvP-0d-minus-CH1	True Sample	0	Copper High	FALSE	FvP 0d minus CH1
+FvP-0d-minus-CH2	True Sample	0	Copper High	FALSE	FvP 0d minus CH2
+FvP-0d-minus-CH3	True Sample	0	Copper High	FALSE	FvP 0d minus CH3
+FvP-0d-minus-CL1	True Sample	0	Copper Low	FALSE	FvP 0d minus CL1
+FvP-0d-minus-CL2	True Sample	0	Copper Low	FALSE	FvP 0d minus CL2
+FvP-0d-minus-CL3	True Sample	0	Copper Low	FALSE	FvP 0d minus CL3
+FvP-0d-minus-SH1	True Sample	0	Sulphur High	FALSE	FvP 0d minus SH1
+FvP-0d-minus-SH2	True Sample	0	Sulphur High	FALSE	FvP 0d minus SH2
+FvP-0d-minus-SH3	True Sample	0	Sulphur High	FALSE	FvP 0d minus SH3
+FvP-0d-minus-SL1	True Sample	0	Sulphur Low	FALSE	FvP 0d minus SL1
+FvP-0d-minus-SL2	True Sample	0	Sulphur Low	FALSE	FvP 0d minus SL2
+FvP-0d-minus-SL3	True Sample	0	Sulphur Low	FALSE	FvP 0d minus SL3
+FvP-0d-minus-W1	True Sample	0	Water	FALSE	FvP 0d minus W1
+FvP-0d-minus-W2	True Sample	0	Water	FALSE	FvP 0d minus W2
+FvP-0d-minus-W3	True Sample	0	Water	FALSE	FvP 0d minus W3
+FvP-1d-minus-CH1	True Sample	1	Copper High	FALSE	FvP 1d minus CH1
+FvP-1d-minus-CH2	True Sample	1	Copper High	FALSE	FvP 1d minus CH2
+FvP-1d-minus-CH3	True Sample	1	Copper High	FALSE	FvP 1d minus CH3
+FvP-1d-minus-CL1	True Sample	1	Copper Low	FALSE	FvP 1d minus CL1
+FvP-1d-minus-CL2	True Sample	1	Copper Low	FALSE	FvP 1d minus CL2
+FvP-1d-minus-CL3	True Sample	1	Copper Low	FALSE	FvP 1d minus CL3
+FvP-1d-minus-SH1	True Sample	1	Sulphur High	FALSE	FvP 1d minus SH1
+FvP-1d-minus-SH2	True Sample	1	Sulphur High	FALSE	FvP 1d minus SH2
+FvP-1d-minus-SH3	True Sample	1	Sulphur High	FALSE	FvP 1d minus SH3
+FvP-1d-minus-SL1	True Sample	1	Sulphur Low	FALSE	FvP 1d minus SL1
+FvP-1d-minus-SL2	True Sample	1	Sulphur Low	FALSE	FvP 1d minus SL2
+FvP-1d-minus-SL3	True Sample	1	Sulphur Low	FALSE	FvP 1d minus SL3
+FvP-1d-minus-W1	True Sample	1	Water	FALSE	FvP 1d minus W1
+FvP-1d-minus-W2	True Sample	1	Water	FALSE	FvP 1d minus W2
+FvP-1d-minus-W3	True Sample	1	Water	FALSE	FvP 1d minus W3
+FvP-7d-minus-CH1	True Sample	7	Copper High	FALSE	FvP 7d minus CH1
+FvP-7d-minus-CH2	True Sample	7	Copper High	FALSE	FvP 7d minus CH2
+FvP-7d-minus-CH3	True Sample	7	Copper High	FALSE	FvP 7d minus CH3
+FvP-7d-minus-CL1	True Sample	7	Copper Low	FALSE	FvP 7d minus CL1
+FvP-7d-minus-CL2	True Sample	7	Copper Low	FALSE	FvP 7d minus CL2
+FvP-7d-minus-CL3	True Sample	7	Copper Low	FALSE	FvP 7d minus CL3
+FvP-7d-minus-SH1	True Sample	7	Sulphur High	FALSE	FvP 7d minus SH1
+FvP-7d-minus-SH2	True Sample	7	Sulphur High	FALSE	FvP 7d minus SH2
+FvP-7d-minus-SH3	True Sample	7	Sulphur High	FALSE	FvP 7d minus SH3
+FvP-7d-minus-SL1	True Sample	7	Sulphur Low	FALSE	FvP 7d minus SL1
+FvP-7d-minus-SL2	True Sample	7	Sulphur Low	FALSE	FvP 7d minus SL2
+FvP-7d-minus-SL3	True Sample	7	Sulphur Low	FALSE	FvP 7d minus SL3
+FvP-7d-minus-W1	True Sample	7	Water	FALSE	FvP 7d minus W1
+FvP-7d-minus-W2	True Sample	7	Water	FALSE	FvP 7d minus W2
+FvP-7d-minus-W3	True Sample	7	Water	FALSE	FvP 7d minus W3
+FvP-14d-minus-CH1	True Sample	14	Copper High	FALSE	FvP 14d minus CH1
+FvP-14d-minus-CH2	True Sample	14	Copper High	FALSE	FvP 14d minus CH2
+FvP-14d-minus-CH3	True Sample	14	Copper High	FALSE	FvP 14d minus CH3
+FvP-14d-minus-CL1	True Sample	14	Copper Low	FALSE	FvP 14d minus CL1
+FvP-14d-minus-CL2	True Sample	14	Copper Low	FALSE	FvP 14d minus CL2
+FvP-14d-minus-CL3	True Sample	14	Copper Low	FALSE	FvP 14d minus CL3
+FvP-14d-minus-SH1	True Sample	14	Sulphur High	FALSE	FvP 14d minus SH1
+FvP-14d-minus-SH2	True Sample	14	Sulphur High	FALSE	FvP 14d minus SH2
+FvP-14d-minus-SH3	True Sample	14	Sulphur High	FALSE	FvP 14d minus SH3
+FvP-14d-minus-SL1	True Sample	14	Sulphur Low	FALSE	FvP 14d minus SL1
+FvP-14d-minus-SL2	True Sample	14	Sulphur Low	FALSE	FvP 14d minus SL2
+FvP-14d-minus-SL3	True Sample	14	Sulphur Low	FALSE	FvP 14d minus SL3
+FvP-14d-minus-W1	True Sample	14	Water	FALSE	FvP 14d minus W1
+FvP-14d-minus-W2	True Sample	14	Water	FALSE	FvP 14d minus W2
+FvP-14d-minus-W3	True Sample	14	Water	FALSE	FvP 14d minus W3
+FvP-21d-minus-CH1	True Sample	21	Copper High	FALSE	FvP 21d minus CH1
+FvP-21d-minus-CH2	True Sample	21	Copper High	FALSE	FvP 21d minus CH2
+FvP-21d-minus-CH3	True Sample	21	Copper High	FALSE	FvP 21d minus CH3
+FvP-21d-minus-CL1	True Sample	21	Copper Low	FALSE	FvP 21d minus CL1
+FvP-21d-minus-CL2	True Sample	21	Copper Low	FALSE	FvP 21d minus CL2
+FvP-21d-minus-CL3	True Sample	21	Copper Low	FALSE	FvP 21d minus CL3
+FvP-21d-minus-SH1	True Sample	21	Sulphur High	FALSE	FvP 21d minus SH1
+FvP-21d-minus-SH2	True Sample	21	Sulphur High	FALSE	FvP 21d minus SH2
+FvP-21d-minus-SH3	True Sample	21	Sulphur High	FALSE	FvP 21d minus SH3
+FvP-21d-minus-SL1	True Sample	21	Sulphur Low	FALSE	FvP 21d minus SL1
+FvP-21d-minus-SL2	True Sample	21	Sulphur Low	FALSE	FvP 21d minus SL2
+FvP-21d-minus-SL3	True Sample	21	Sulphur Low	FALSE	FvP 21d minus SL3
+FvP-21d-minus-W1	True Sample	21	Water	FALSE	FvP 21d minus W1
+FvP-21d-minus-W2	True Sample	21	Water	FALSE	FvP 21d minus W2
+FvP-21d-minus-W3	True Sample	21	Water	FALSE	FvP 21d minus W3
